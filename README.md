@@ -13,5 +13,6 @@
                             %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-Project Overview:
-Here we can ask the user for a speech to convert ir to text.
+HERE WE CAN :
+1. Create an mp3 from a string of text
+2. Ask the user for a text and create an mp3
